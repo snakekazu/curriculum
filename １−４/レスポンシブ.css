@@ -6,12 +6,25 @@
  .content{
 width:150px;
  }
+ .side{
+   width:150px;
+   height:100px;
+ }
+ .content-top-left-bottom{
+  width:150px;
+}
+ .content-top-left-top{
+   width:150px;
+   
+ }
+ 
  .content-top-right{
    width:150px;
+   height:100px;
  }
  .footer{
    float:bottom;
    width:150px;
-   height:250px;
+   height:200px;
  }
 }
