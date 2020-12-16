@@ -1,0 +1,38 @@
+
+@media screen and (max-width:479px){
+  .wrapper{
+    width:150px;
+    float:none;
+  } 
+  .side{
+    width:150px;
+    height:100px;
+  }
+  .content-top-right{
+    width:150px;
+    height:100px;
+  }
+  .content-top-left-top{
+    width:150px;
+    margin:0 50px;
+  }
+  .content-top-left-bottom{
+    width:150px;
+    margin:0 50px;
+  }
+  .content-bottom{
+    width:150px;
+    margin:0 50px;
+  }
+  .footer{
+    width:150px;
+    margin:100px 0
+  }
+
+  
+
+
+ 
+  
+  
+ }
